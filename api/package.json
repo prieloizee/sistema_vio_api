@@ -1,11 +1,11 @@
 {
-  "name": "gabrielapi",
+  "name": "priscilaapi",
   "version": "1.0.0",
   "description": "criando um crud de usuarios",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/server.js"
+    "start": "node api/src/server.js"
   },
   "author": "priscila",
   "license": "ISC",
